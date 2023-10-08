@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jayfeather1024.github.io/sitemap.xml
+Sitemap: https://Jayfeather1024.github.io/sitemap.xml
